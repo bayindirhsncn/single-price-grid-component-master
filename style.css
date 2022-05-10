@@ -47,7 +47,7 @@ main {
     color: var(--Cyan);
 }
 
-.header h3 {
+.header h2 {
     color: var(--BrightYellow);
     margin: 2rem 0 1rem 0;
 }
