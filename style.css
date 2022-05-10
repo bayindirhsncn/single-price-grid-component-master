@@ -82,7 +82,7 @@ div .prc {
     padding-right: 1rem;
 }
 
-.price span {
+.price div {
     font-size: 16px;
     font-weight: lighter;
     color: var(--LightGray);
